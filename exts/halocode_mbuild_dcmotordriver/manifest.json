@@ -1,0 +1,70 @@
+{
+  "id": "halocode_mbuild_dcmotordriver",
+  "iconURL": "halocode_mbuild_dcmotordriver/imgs/8ab2398d0a06474a899f2941d0e3be29.png",
+  "coverURL": "./res/8ab2398d0a06474a899f2941d0e3be29.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "直流电机驱动",
+    "en": "DC Motor Driver",
+    "de": "DC-Motor-Treiber",
+    "es": "Controlador de motor de CC",
+    "fr": "Pilote de moteur DC",
+    "id": "Sopir motor DC",
+    "ja": "DC モータードライバ",
+    "ja-jph": "DC モータードライバ",
+    "ko": "DC 모터 구동기",
+    "pl": "Sterownik silnika DC",
+    "uk": "Привід мотору постійного струму",
+    "zh-hant": "直流馬達驅動器",
+    "nl": "DC motor driver",
+    "it": "Driver Motore DC",
+    "hr": "Kontroler DC motora",
+    "ru": "Водитель постоянного тока мотора",
+    "pt": "Excitador do motor da C.C.",
+    "fi": "DC-moottorin ohjain",
+    "tr": "DC motor sürücüsü",
+    "tk": "DC Hereketlendirijisiniň Draýweri"
+  },
+  "description": {
+    "zh": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "id": "",
+    "ja": "",
+    "ja-jph": "",
+    "ko": "",
+    "pl": "",
+    "uk": "",
+    "zh-hant": "",
+    "nl": "",
+    "it": "",
+    "hr": "",
+    "ru": "",
+    "pt": "",
+    "fi": "",
+    "tr": "",
+    "tk": ""
+  },
+  "targets": [
+    "haloboard"
+  ],
+  "main": "halocode_mbuild_dcmotordriver/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": false,
+  "sortId": 999,
+  "version": "0.0.3",
+  "extApiVersion": [
+    "1.0.2"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+}

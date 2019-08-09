@@ -1,0 +1,23 @@
+{
+    "id": "translate",
+    "res": ["./imgs"],
+    "iconURL": "scratch-translate/imgs/cover.png",
+    "name": {
+        "en": "Translate",
+        "zh": "翻译"
+    },
+    "description": {
+        "en": "Translate text into many languages.",
+        "zh": "把文字翻译成多种语言。"
+    },
+    "main": "scratch-translate/",
+    "targets": "SPRITES",
+    "sortId": 100,
+    "version": "0.3.0",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": ["mblockpc", "mblockweb", "mblockapp"],
+    "isOfficialDev": 0,
+    "createdByName": "scratch"
+}

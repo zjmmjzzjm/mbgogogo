@@ -1,0 +1,70 @@
+{
+  "id": "halocode_mbuild_ultrasonic",
+  "iconURL": "halocode_mbuild_ultrasonic/imgs/216672fd01824857afdbfce016b11940.png",
+  "coverURL": "./res/216672fd01824857afdbfce016b11940.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "超声波传感器",
+    "en": "Ultrasonic Sensor",
+    "de": "Ultraschall-Sensor",
+    "es": "Sensor de ultrasonidos",
+    "fr": "Capteur ultrasonique",
+    "id": "Ultrasonic sensor",
+    "ja": "超音波センサー",
+    "ja-jph": "ちょうおんぱセンサー",
+    "ko": "초음파 센서",
+    "pl": "Czujnik ultradźwiękowy",
+    "uk": "Ультразвуковий датчик",
+    "zh-hant": "超音波感測器",
+    "nl": "Ultrasone sensor",
+    "it": "Sensore ad ultrasuoni",
+    "hr": "Ultrazvučni senzor",
+    "ru": "Ультразвуковой датчик",
+    "pt": "Sensor ultra-sônico",
+    "fi": "Ultraäänianturi",
+    "tr": "Ultrasonik sensör",
+    "tk": "Ultrases Duýujy Enjamy"
+  },
+  "description": {
+    "zh": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "id": "",
+    "ja": "",
+    "ja-jph": "",
+    "ko": "",
+    "pl": "",
+    "uk": "",
+    "zh-hant": "",
+    "nl": "",
+    "it": "",
+    "hr": "",
+    "ru": "",
+    "pt": "",
+    "fi": "",
+    "tr": "",
+    "tk": ""
+  },
+  "targets": [
+    "haloboard"
+  ],
+  "main": "halocode_mbuild_ultrasonic/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": false,
+  "sortId": 999,
+  "version": "0.0.3",
+  "extApiVersion": [
+    "1.0.2"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+}

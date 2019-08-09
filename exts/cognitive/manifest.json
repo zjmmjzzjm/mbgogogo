@@ -1,0 +1,58 @@
+{
+  "id": "Cognitive",
+  "iconURL": "cognitive/imgs/cover.jpg",
+  "name": {
+    "zh": "认知服务",
+    "en": "Cognitive Services",
+    "zh-hant": "認知服務",
+    "id": "Layanan kognitif",
+    "de": "kognitive Dienste",
+    "es": "Servicios cognitivos",
+    "fr": "Services Cognitifs",
+    "ko": "인식 서비스",
+    "it": "Servizi cognitivi",
+    "nl": "Cognitive Services",
+    "ja": "認知サービス",
+    "pl": "Usługi poznawcze",
+    "hr": "Cognitive Services",
+    "pt": "Serviços Cognitivos",
+    "ru": "Выбрать Microsoft Cognitive Services",
+    "fi": "Kognitiivistet palvelut",
+    "tr": "Bilişsel Hizmetler",
+    "uk": "Когнітивні сервіси",
+    "tk": "Kognitiw Hyzmatlar"
+  },
+  "description": {
+    "zh": "通过认知服务的人工智能 API，向应用添加影像、语音、语言和知识功能",
+    "en": "The cognitive services API allows users to add other features, for instance, Video, Speech, Language and Knowledge.",
+    "zh-hant": "認知服務 API 能讓使用者添加其它功能，例如影像、語音、文字等辨識。",
+    "id": "Layanan kognitif API memungkinkan pengguna untuk menambahkan fitur lain, misalnya, Video, Percakapan, Bahasa dan Pengetahuan.",
+    "de": "Die \"kognitiven Dienste\" ermöglicht es den Benutzern, weitere Funktionen hinzuzufügen, beispielsweise Videoanalyse, Spracherkennung oder Wissensbasis.",
+    "es": "La API de servicios cognitivos permite a los usuarios añadir otras características, por ejemplo, video, voz, lenguaje y conocimiento.",
+    "fr": "L’API permet aux utilisateurs d’ajouter d’autres fonctionnalités, par exemple, vidéo, parole, langage et connaissance.",
+    "ko": "인지 서비스 API를 사용하면 비디오, 음성, 언어 및 지식과 같은 다른 기능을 추가 할 수 있습니다.",
+    "it": "Le API dei servizi conoscitivo consente agli utenti di aggiungere altre funzionalità, ad esempio, Video, discorso, linguaggio e conoscenza.",
+    "nl": "De cognitieve services API laat gebruikers toe om andere features toe te voegen, bijvoorbeeld Video, Spraak, Taal en Kennis.",
+    "ja": "認知サービスAPIでは、ビデオ、音声、言語、知識等の機能を追加することができます。",
+    "pl": "Usługi poznawcze Interfejsu Programowania Aplikacji pozwalają dodawać inne cechy, na przykład Video, Mowa, Język i Wiedza.",
+    "hr": "Kongitivna usluga API omogućava korisnicima korištenje drugih pogodnosti poput Slika, Videa, Jezika i Znajna.",
+    "pt": "A API de serviços cognitivos permite que os utilizadores adicionem outros recursos, por exemplo, Vídeo, Fala, Idioma e Conhecimento.",
+    "ru": "API когнитивных сервисов позволяет пользователям добавлять другие возможности, например, видео, речь, язык и знание.",
+    "fi": "Kognitiivisten palveluiden sovellusliittymän avulla käyttäjät voivat lisätä muita ominaisuuksia, kuten Video, Speech, Language and Knowledge.",
+    "tr": "Bilişsel hizmetler API'si, kullanıcıların Video, Konuşma, Dil ve Bilgi gibi diğer özellikleri eklemesine olanak tanır.",
+    "uk": "API когнітивних сервісів дозволяє користувачам додавати нові функції, наприклад, відео, голос, мову та іншу інформацію.",
+    "tk": "API kognitiw hyzmatlar ulanyjylara wideo, gepleşik, dil we bilim ýaly beýleki aýratynlyklary goşmaga rugsat berýar."
+  },
+  "targets": "SPRITES",
+  "main": "cognitive/index.js",
+  "device": false,
+  "sortId": 0,
+  "version": "0.3.5",
+  "extApiVersion": [
+    "1.0.0"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb"
+  ]
+}

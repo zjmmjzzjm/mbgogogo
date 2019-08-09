@@ -1,0 +1,68 @@
+{
+  "id": "haloboard",
+  "iconURL": "haloboard/imgs/36dcf693945145c6b2e779b30c8c8c50.png",
+  "coverURL": "./res/36dcf693945145c6b2e779b30c8c8c50.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "光环板",
+    "en": "HaloCode",
+    "de": "HaloCode",
+    "es": "HaloCode",
+    "fr": "HaloCode",
+    "id": "HaloCode",
+    "ja": "Halocode",
+    "ja-jph": "HaloCode",
+    "ko": "HaloCode",
+    "pl": "HaloCode",
+    "uk": "HaloCode",
+    "zh-hant": "HaloCode",
+    "nl": "HaloCode",
+    "it": "HaloCode",
+    "hr": "HaloCode",
+    "ru": "HaloCode",
+    "pt": "HaloCode",
+    "fi": "HaloCode",
+    "tr": "HaloCode",
+    "tk": "HaloCode"
+  },
+  "description": {
+    "zh": "HaloBoard可联网单板计算机",
+    "en": "HaloCode Single-Board Computer with Built-in Wi-Fi",
+    "de": "HaloCode Single-Board-Computer mit eingebautem WLAN",
+    "es": "Placa de ordenador HaloCode con WiFi integrado",
+    "fr": "Ordinateur monocarte HaloCode avec Wi-Fi intégré",
+    "id": "HaloCode satu-papan komputer dengan Built-in Wi-Fi",
+    "ja": "Halocode Wi-Fi内蔵のシングルボードコンピュータ",
+    "ja-jph": "HaloCode Wi-Fiないぞうのシングルボードコンピュータ",
+    "ko": "HaloCode Wi-Fi 내장의 싱글보드 컴퓨터",
+    "pl": "HaloCode komputer z jedną płytą z wbudowanym Wi-Fi",
+    "uk": "HaloCode одноплатний комп'ютер з вбудованим Wi-Fi",
+    "zh-hant": "HaloCode是帶有內置 wi-fi 的單板電腦",
+    "nl": "HaloCode Single-board Computer met ingebouwde Wi-Fi",
+    "it": "HaloCode è un computer su singola scheda con Wi-Fi integrato",
+    "hr": "HaloCode single-Board računalo s ugrađenim Wi-Fi",
+    "ru": "HaloCode одноБортный компьютер со встроенным Wi-Fi",
+    "pt": "HaloCode single-placa de computador com built-in Wi-Fi",
+    "fi": "HaloCode yhden hallituksen tieto kone, jossa on sisäänrakennettu Wi-Fi",
+    "tr": "HaloCode; W-Fi özellikli bilgisayar kartı",
+    "tk": "Içine gurnalan Wi-Fi baglanyşykly HaloCode ýeke plataly kompýuter"
+  },
+  "main": "haloboard/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": true,
+  "sortId": 999,
+  "version": "1.0.4",
+  "extApiVersion": [
+    "1.0.2"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/hardware-guide/hardware-guide.html"
+}

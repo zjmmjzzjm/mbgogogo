@@ -1,0 +1,70 @@
+{
+  "id": "halocode_mbuild_pirsensor",
+  "iconURL": "halocode_mbuild_pirsensor/imgs/f5efb29d04d04a26af6677744e2703f7.png",
+  "coverURL": "./res/f5efb29d04d04a26af6677744e2703f7.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "热运动传感器",
+    "en": "PIR Sensor",
+    "de": "PIR-Sensor",
+    "es": "sensor de movimiento",
+    "fr": "Capteur PIR",
+    "id": "PIR sensor",
+    "ja": "PIR センサー",
+    "ja-jph": "PIR センサー",
+    "ko": "PIR 센서",
+    "pl": "Czujnik PIR",
+    "uk": "ПІЧ датчик",
+    "zh-hant": "人體紅外線感測器",
+    "nl": "PIR sensor",
+    "it": "Sensore PIR",
+    "hr": "PIR senzor",
+    "ru": "ПИР датчик",
+    "pt": "Sensor PIR",
+    "fi": "PIR-anturi",
+    "tr": "PIR sensörü",
+    "tk": "PIR duýujy enjamy"
+  },
+  "description": {
+    "zh": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "id": "",
+    "ja": "",
+    "ja-jph": "",
+    "ko": "",
+    "pl": "",
+    "uk": "",
+    "zh-hant": "",
+    "nl": "",
+    "it": "",
+    "hr": "",
+    "ru": "",
+    "pt": "",
+    "fi": "",
+    "tr": "",
+    "tk": ""
+  },
+  "targets": [
+    "haloboard"
+  ],
+  "main": "halocode_mbuild_pirsensor/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": false,
+  "sortId": 999,
+  "version": "0.0.3",
+  "extApiVersion": [
+    "1.0.2"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "music",
+    "res": ["./imgs"],
+    "iconURL": "scratch-music/imgs/cover-music.png",
+    "name": {
+        "zh": "音乐",
+        "en": "Music"
+    },
+    "description": {
+        "zh": "让角色演奏出各种乐器的声音~",
+        "en": "Play instruments and drums."
+    },
+    "main": "scratch-music/",
+    "targets": "SPRITES",
+    "sortId": 3,
+    "version": "0.3.0",
+    "extApiVersion": [
+        "1.0.0"
+    ]
+}

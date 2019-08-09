@@ -1,0 +1,20 @@
+{
+    "id": "pen",
+    "res": ["./imgs"],
+    "iconURL": "scratch-pen/imgs/cover-pen.png",
+    "name": {
+        "en": "Pen",
+        "zh": "画笔"
+    },
+    "description": {
+        "en": "Draw with your sprites.",
+        "zh": "让角色画出有趣的图案~"
+    },
+    "main": "scratch-pen/",
+    "targets": "SPRITES",
+    "sortId": 2,
+    "version": "0.3.0",
+    "extApiVersion": [
+        "1.0.0"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "text2speech",
+    "res": ["./imgs"],
+    "iconURL": "scratch-text2speech/imgs/cover.png",
+    "name": {
+        "en": "Text to Speech",
+        "zh": "文字朗读"
+    },
+    "description": {
+        "en": "Make your projects talk.",
+        "zh": "让你的作品开口说话。"
+    },
+    "main": "scratch-text2speech/",
+    "targets": "SPRITES",
+    "sortId": 99,
+    "version": "0.3.0",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": ["mblockpc", "mblockweb", "mblockapp"],
+    "isOfficialDev": 0,
+    "createdByName": "scratch"
+}

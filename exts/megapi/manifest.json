@@ -1,0 +1,69 @@
+{
+  "id": "megapi",
+  "iconURL": "megapi/imgs/17dfca5bd76648a5b72ded9f3bb8c180.png",
+  "coverURL": "./res/17dfca5bd76648a5b72ded9f3bb8c180.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "Ultimate 2.0",
+    "en": "Ultimate 2.0",
+    "de": "Ultimate 2.0",
+    "es": "Ultimate 2.0",
+    "fr": "Ultimate 2.0",
+    "id": "Ultimate 2.0",
+    "ja": "Ultimate 2.0",
+    "ja-jph": "Ultimate 2.0",
+    "ko": "Ultimate 2.0",
+    "pl": "Ultimate 2.0",
+    "uk": "Ultimate 2.0",
+    "zh-hant": "Ultimate 2.0",
+    "nl": "Ultimate 2.0",
+    "it": "Ultimate 2.0",
+    "hr": "Ultimate 2.0",
+    "ru": "Ultimate 2.0",
+    "pt": "Ultimate 2.0",
+    "fi": "Ultimate 2.0",
+    "tr": "Ultimate 2.0",
+    "tk": "Ultimate 2.0"
+  },
+  "description": {
+    "zh": "MegaPi Pro demo 测试",
+    "en": "MegaPi Pro demo",
+    "de": "MegaPi Pro Demo",
+    "es": "Demostración de MegaPri Pro",
+    "fr": "Démo MegaPi Pro",
+    "id": "MegaPi Pro demo",
+    "ja": "MegaPi Pro デモ",
+    "ja-jph": "MegaPi Pro デモ",
+    "ko": "MegaPi Pro demo",
+    "pl": "Demo MegaPi Pro",
+    "uk": "MegaPi Pro демо",
+    "zh-hant": "MegaPi Pro演示",
+    "nl": "MegaPi Pro demo",
+    "it": "Demo di MegaPi Pro",
+    "hr": "MegaPi Pro demo",
+    "ru": "Демо MegaPi Pro",
+    "pt": "Demo do MegaPi pro",
+    "fi": "MegaPi Pro demo",
+    "tr": "MegaPi Pro Demo",
+    "tk": "MegaPi Pro demo"
+  },
+  "main": "megapi/index.js",
+  "codeTypes": [
+    "arduinoc"
+  ],
+  "device": true,
+  "sortId": 999,
+  "version": "1.0.1",
+  "extApiVersion": [
+    "1.0.0",
+    "1.0.1"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/hardware-guide/hardware-guide.html"
+}

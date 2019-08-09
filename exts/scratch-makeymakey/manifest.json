@@ -1,0 +1,23 @@
+{
+    "id": "makeymakey",
+    "res": ["./imgs"],
+    "iconURL": "scratch-makeymakey/imgs/cover.png",
+    "name": {
+        "en": "Makey Makey",
+        "zh": "组合按键"
+    },
+    "description": {
+        "en": "Make anything into a key.",
+        "zh": "把任何东西变成按键。"
+    },
+    "main": "scratch-makeymakey/",
+    "targets": "SPRITES",
+    "sortId": 101,
+    "version": "0.3.0",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": ["mblockpc", "mblockweb"],
+    "isOfficialDev": 0,
+    "createdByName": "scratch"
+}

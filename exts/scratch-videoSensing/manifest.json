@@ -1,0 +1,23 @@
+{
+    "id": "videoSensing",
+    "res": ["./imgs"],
+    "iconURL": "scratch-videoSensing/imgs/cover.png",
+    "name": {
+        "en": "Video Sensing",
+        "zh": "视频侦测"
+    },
+    "description": {
+        "en": "Sense motion with the camera.",
+        "zh": "使用摄像头侦测运动。"
+    },
+    "main": "scratch-videoSensing/",
+    "targets": "SPRITES",
+    "sortId": 98,
+    "version": "0.3.0",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": ["mblockpc", "mblockweb"],
+    "isOfficialDev": 0,
+    "createdByName": "scratch"
+}

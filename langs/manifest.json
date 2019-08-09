@@ -1,0 +1,69 @@
+{
+    "version": "v2.0.0",
+    "extractPath": "http://classroom-huanan-static.oss-cn-shenzhen.aliyuncs.com/ext/dev/l10n/mblock-pc/v2.0.0/",
+    "fileUrl": "http://classroom-huanan-static.oss-cn-shenzhen.aliyuncs.com/ext/dev/l10n/mblock-pc/v2.0.0/i18n.zip",
+    "fileMd5": "c6243f8bf5c607d320e306e03694ceb5",
+    "localePath": "http://classroom-huanan-static.oss-cn-shenzhen.aliyuncs.com/ext/dev/react-intl/",
+    "supportLangs": {
+        "en": {
+            "name": "English"
+        },
+        "zh": {
+            "name": "简体中文"
+        },
+        "zh-hant": {
+            "name": "繁體中文"
+        },
+        "id": {
+            "name": "Bahasa Indonesia"
+        },
+        "de": {
+            "name": "Deutsch"
+        },
+        "es": {
+            "name": "Español"
+        },
+        "fr": {
+            "name": "Français"
+        },
+        "ko": {
+            "name": "한국어"
+        },
+        "it": {
+            "name": "Italiano"
+        },
+        "nl": {
+            "name": "Nederlands"
+        },
+        "ja": {
+            "name": "日本語"
+        },
+        "ja-jph": {
+            "name": "にほんご"
+        },
+        "pl": {
+            "name": "Polski"
+        },
+        "hr": {
+            "name": "Hrvatski"
+        },
+        "pt": {
+            "name": "Português"
+        },
+        "ru": {
+            "name": "Русский"
+        },
+        "fi": {
+            "name": "Suomi"
+        },
+        "tr": {
+            "name": "Türkçe"
+        },
+        "uk": {
+            "name": "Українська"
+        },
+        "tk": {
+            "name": "Тürkmençe"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "halocode_mbuild_blueledmatrix",
+  "iconURL": "halocode_mbuild_blueledmatrix/imgs/88bb238439744c5a8c815b84fc4306b4.png",
+  "coverURL": "./res/88bb238439744c5a8c815b84fc4306b4.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "8×16 LED 点阵",
+    "en": "8×16 LED Matrix",
+    "de": "8×16 LED Matrix",
+    "es": "Matriz LED 8×16",
+    "fr": "Matrix à LED de 8×16",
+    "id": "8 × 16 matriks LED",
+    "ja": "8× 16 LED マトリックス",
+    "ja-jph": "8× 16 LED マトリックス",
+    "ko": "8 × 16 LED 매트릭스",
+    "pl": "8 × 16 matryca LED",
+    "uk": "LED матриця 8×16",
+    "zh-hant": "8x16 LED 矩陣",
+    "nl": "8 × 16 LED matrix",
+    "it": "8×16 Matrice LED",
+    "hr": "8 × 16 LED matrica",
+    "ru": "8 × 16 LED матрица",
+    "pt": "Matriz do diodo emissor de luz 8 × 16",
+    "fi": "8 × 16 LED Matrix",
+    "tr": "8 × 16 LED matris",
+    "tk": "8×16 LED Matrix"
+  },
+  "description": {
+    "zh": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "id": "",
+    "ja": "",
+    "ja-jph": "",
+    "ko": "",
+    "pl": "",
+    "uk": "",
+    "zh-hant": "",
+    "nl": "",
+    "it": "",
+    "hr": "",
+    "ru": "",
+    "pt": "",
+    "fi": "",
+    "tr": "",
+    "tk": ""
+  },
+  "targets": [
+    "haloboard"
+  ],
+  "main": "halocode_mbuild_blueledmatrix/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": false,
+  "sortId": 999,
+  "version": "0.0.3",
+  "extApiVersion": [
+    "1.0.2"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+}
